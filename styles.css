@@ -56,7 +56,7 @@ ol, ul {
 
 /* page header */
 header {
-   background: #93AD78;
+   background: #ADD8E6;
    width: 100%;
    color: black;
    font-size: 48px;
@@ -112,7 +112,7 @@ fieldset {
   margin-bottom: 10px;
   position: relative;
   padding: 2.5em 1em 0.5em 1em;
-  background: #93AD78;
+  background: #ADD8E6;
   text-align: left;
    
   }
@@ -200,7 +200,7 @@ textarea {
   }
 #calculatebutton {
   border: 5px;
-  background: #93AD78;
+  background: #ADD8E6;
   padding: 0.5em 0;
   margin-bottom: 0;
   text-align: center;
